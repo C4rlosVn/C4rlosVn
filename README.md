@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=45&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&height=120&lines=Carlos+Viana;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Digital+Solutions)](https://git.io/typing-svg)
 
-[![Snake Animation](https://raw.githubusercontent.com/C4rlosVn/C4rlosVn/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/C4rlosVn/C4rlosVn/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ### ⚡ Current Focus
@@ -43,6 +41,8 @@ activity: "Desenvolvendo sistemas web modernos e soluções digitais"
 ![Stats](https://github-readme-stats.vercel.app/api?username=C4rlosVn&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=2563EB&text_color=9aa5ce&icon_color=2563EB&border_color=0D1117&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=C4rlosVn&theme=tokyonight&background=0D1117&ring=2563EB&fire=2563EB&currStreakNum=9aa5ce)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4rlosVn&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=2563EB&text_color=9aa5ce&icon_color=2563EB&border_color=0D1117&hide_border=true)
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=C4rlosVn&limit=5&theme=tokyonight&bg_color=0D1117&title_color=2563EB&text_color=9aa5ce&border_color=0D1117&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 
