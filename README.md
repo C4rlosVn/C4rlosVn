@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.heroes.dev/?font=Fira+Code&size=45&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&height=120&lines=Carlos+Viana;Desenvolvedor+Full-Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Python;Criando+solu%C3%A7%C3%B5es+que+transformam+neg%C3%B3cios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&height=120&lines=Carlos+Viana%3BDesenvolvedor+Full-Stack%3BReact+%7C+TypeScript+%7C+Node.js+%7C+Python%3BCriando+solu%C3%A7%C3%B5es+que+transformam+neg%C3%B3cios)](https://git.io/typing-svg)
 
 ---
 
