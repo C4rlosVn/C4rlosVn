@@ -61,4 +61,4 @@ atividade: "Construindo sistemas empresariais completos — do backend ao deploy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-viana-9b623433a)
 [![Email](https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosvnti@hotmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=C4rlosVn&label=Visualiza%C3%A7%C3%B5es&color=2563EB&style=flat-square)
+![Profile Views](https://hits.sh/github.com/C4rlosVn/C4rlosVn.svg?label=Visitantes&color=2563EB)
